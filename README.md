@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/izabelaog" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/izabelaog?logo=twitter&style=for-the-badge" alt="https://twitter.com/izabelaog" /></a> </p>
 
-- 🌱 I’m currently learning **jQuery and Javascript**
+- 🌱 I’m currently learning **TypeScript, React and Vue**
 
 - 📫 How to reach me **isabella.ognadze@gmail.com**
 
